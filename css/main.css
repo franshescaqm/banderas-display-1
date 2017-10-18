@@ -1,6 +1,7 @@
 * {
     box-sizing: border-box;
 }
+/*Le doy un height, margin y un padding a las tres secciones */
 .section {
     height: 100px;
     margin: 10px;
