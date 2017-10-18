@@ -1,0 +1,18 @@
+* {
+    box-sizing: border-box;
+}
+.section {
+    height: 100px;
+    margin: 10px;
+    padding: 10px;    
+}
+.yellow {
+    background-color: #f7b617;
+}
+.black {
+    background-color: black;
+    color: #fff;
+}
+.uppercase {
+    text-transform: uppercase;
+}
